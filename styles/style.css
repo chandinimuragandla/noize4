@@ -26,7 +26,7 @@
 }
 .menu{
     
-    height: auto;
+ height: auto;
 text-align: right;
 margin-left: 30px;
 transform :translateY(100%);
@@ -413,33 +413,214 @@ h1{
     display: flex;
  }
  
- ._ad23 img{
+ ._ad23  img{
     margin-top: -250px;
-    margin-left: 400px;
+    margin-left: 600px;
     width: 80px; 
   }
   .a13 .heading h4{
     color: white;
-    font-size: 55px;
-    margin-left: -400px;
+    font-size: 70px;
+    margin-left: -600px;
   
   }
   .a13  .heading span{
     color:rgb(243, 9, 118);
-   margin-left: -320px;
-    margin-top: 40px;
+   margin-left: -350px;
+    margin-top: 10px;
     
   }
   .heading p{
     color: white;
-    font-size: 16px;
+    font-size: 20px;
     font-family: monospace;
-    margin-left: -300px;
+    margin-left: -580px;
     margin-top: 20px;
+    justify-content: right;
+
   }
   .photo img{
-    height: 500px;
+    height: 400px;
     width: 700px;
-    margin-left: -300px;
-    margin-top: 80px;
+    margin-left: 200px;
+    margin-top: 50px;
   }
+  .a13 .symbol{
+   margin-right: 50px;
+  }
+   .a13 .author p{
+   color:white;
+   font-weight: bold;
+   font-size: 20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+ ._ad24  .a14 .photo1{
+  margin-top: -400px;
+  margin-left: 900px;
+  
+  }
+   .content{
+   color:white;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 50px;
+    margin-left: 800px;
+    margin-top: 10px;
+   
+  }
+  .line p{
+   color: rgb(224, 45, 75);
+   margin-left: 950px;
+   margin-top: -130px;
+   font-size: 16px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+   .a14 .gitar img{
+   height: 300px;
+  }
+  ._ad24 .a14{
+   background-color: black;
+   height: 600px;
+  }
+._ad25{
+   height: auto;
+   background-color: black;
+   width: 100%;
+   
+}
+.head1 p{
+   color: white;
+   font-size: 60px;
+   margin-top: -550px;
+   margin-left:530px ;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.main{
+  display: flex;
+  margin-top: 20px;
+
+}
+.main .class1 img{
+width: 650px;
+margin: 10px;
+height: 400px;
+margin-left: 80px;
+
+}
+.main .class2 img{
+margin: 10px;
+height: 400px;
+}
+.main .class3 img{
+margin: 10px;
+height: 400px;
+}
+.main1{
+   display: flex;
+   margin-top: 20px;
+ 
+ }
+.main .class4 img{
+   width: 650px;
+   margin: 15px;
+   height: 400px;
+   margin-left: 80px;
+   
+}
+.main .class5 img{
+      margin: 15px;
+      height: 400px;
+}
+.main .class6 img{
+      margin: 15px;
+      height: 300px;
+      width: 250px;
+      margin-left: 80px;
+}
+ ._ad26 .head2 p{
+   margin-top: 100px;
+   margin-left: 150px;
+}
+.nav1{
+   background-color:grey;
+   height: 100px;
+   width: 100%;
+   
+}
+.nav1 ul li{
+   margin-left: 250px;
+   color: white;
+  
+ 
+  list-style: none;
+ 
+ 
+}
+.menu1 ul{
+   display: flex;
+   font-size: 30px;
+   
+}
+.menu1{
+   margin-top: 50px;
+   margin-left: -100px;
+}
+.menu1 ul li a{
+   margin-left: 50px;
+}
+._ad26 .nav1{
+   border: 3px greenyellow solid;
+}
+.Boxes{
+  
+   display: flex;
+  
+}
+.box1,.box2,.box3,.box4 {
+   margin: 5px 10px;
+   border: none;
+}
+.box1{
+   height: 100px;
+   color:white;
+   width: 24%;
+   font-size: 20px;
+}
+.box1 ._098  {
+   display: inline-flex;
+   justify-content: space-between;
+}
+.box2{
+   height: 100px;
+   color:white;
+  width: 24%;
+  font-size: 20px;
+}
+.box2 ._098  {
+   display: inline-flex;
+   justify-content: space-between;
+}
+.box3{
+   height: 100px;
+   color:white;
+   width: 24%;
+   font-size: 20px;
+}
+.box3 ._098  {
+   display: inline-flex;
+   justify-content: space-between;
+}
+.box4{
+   height: 100px;
+   color:white;
+   width:24%;
+   font-size: 20px;
+}
+.box4 ._098 {
+   display: inline-flex;
+   margin-top: px;
+   justify-content: space-between;
+}
+
+
+
